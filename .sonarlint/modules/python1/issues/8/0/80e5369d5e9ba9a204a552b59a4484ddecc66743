@@ -1,0 +1,10 @@
+
+†python:S100"RRename method "testSuccess" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(°ΟΈ 8Όγέτ¬,HΞRMINORZ
+CODE_SMELL
+python:S1764"LCorrect one of the identical sub-expressions on both sides of operator "==".(ΠΟψÿÿÿÿ8¤Ϋτ¬,HΚRMAJORZBUG
+…python:S100"LRename method "setUp" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(§ώÿÿÿÿ8¤Ϋτ¬,HΗRMINORZ
+CODE_SMELL
+python:S100"ORename method "testFail" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(αÒÿ“ώÿÿÿÿ8Όγέτ¬,HΟRMINORZ
+CODE_SMELL
+ƒpython:S100"ORename method "tearDown" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•ϋάλ8¤Ϋτ¬,HΘRMINORZ
+CODE_SMELL
